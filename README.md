@@ -24,5 +24,5 @@ program specifically for the hardware he<br>
 was using and independent of an<br>
 operating system because he wanted to<br>
 use the functions of his new PC with an<br>
-80386 processor. Development was done<br>
-on MINIX using the GNU C Compiler.<br>
+80386 processor. Development was done on<br>
+MINIX using the GNU C Compiler.<br>
